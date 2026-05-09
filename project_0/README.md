@@ -1,22 +1,22 @@
 # Проект 0. Угадай число.
 
 ## Оглавление
-[1. Описание проекта](https://github.com/BortovayaNatalie/SF_Python_Homework8/edit/main/project_0/README.md###Описание-проекта)
+[1. Описание проекта](https://github.com/BortovayaNatalie/SF_Python_Homework8/edit/main/project_0/README.md#Описание-проекта)
 
-[2. Какой кйес решаем](https://github.com/BortovayaNatalie/SF_Python_Homework8/edit/main/project_0/README.md###Какой-куйс-решаем)
+[2. Какой кйес решаем](https://github.com/BortovayaNatalie/SF_Python_Homework8/edit/main/project_0/README.md#Какой-куйс-решаем)
 
-[3. Краткая информация о данных](https://github.com/BortovayaNatalie/SF_Python_Homework8/edit/main/project_0/README.md###Краткая-информация-о-данных)
+[3. Краткая информация о данных](https://github.com/BortovayaNatalie/SF_Python_Homework8/edit/main/project_0/README.md#Краткая-информация-о-данных)
 
-[4. Этапы работы над проектом](https://github.com/BortovayaNatalie/SF_Python_Homework8/edit/main/project_0/README.md###Этапы-работы-над-проектом)
+[4. Этапы работы над проектом](https://github.com/BortovayaNatalie/SF_Python_Homework8/edit/main/project_0/README.md#Этапы-работы-над-проектом)
 
-[5. Результат](https://github.com/BortovayaNatalie/SF_Python_Homework8/edit/main/project_0/README.md###Результат)
+[5. Результат](https://github.com/BortovayaNatalie/SF_Python_Homework8/edit/main/project_0/README.md#Результат)
 
-[6. Выводы](https://github.com/BortovayaNatalie/SF_Python_Homework8/edit/main/project_0/README.md###Выводы)
+[6. Выводы](https://github.com/BortovayaNatalie/SF_Python_Homework8/edit/main/project_0/README.md#Выводы)
 
 ### Описание проекта
 Угадать загаданное компьютером число за минимальное число попыток (не более 20)
 
-:arrow_up:[к оглавлению](https://github.com/BortovayaNatalie/SF_Python_Homework8/edit/main/project_0/README.md##Оглавление)
+:arrow_up:[к оглавлению](https://github.com/BortovayaNatalie/SF_Python_Homework8/edit/main/project_0/README.md#Оглавление)
 
 ### Какой кейс решаем?
 Нужно написать программу, которая угадывает числа за минимальное число попыток
@@ -48,5 +48,5 @@
 ### Выводы
 Алгоритм бинарного поиска превосходит по эффективности алгоритм "СлучанЙое угадывание" и алгоритм "Угадывание с коррекцией"
 
-:arrow_up:[к оглавлению](https://github.com/BortovayaNatalie/SF_Python_Homework8/edit/main/project_0/README.md##Оглавление)
+:arrow_up:[к оглавлению](https://github.com/BortovayaNatalie/SF_Python_Homework8/edit/main/project_0/README.md#Оглавление)
 
