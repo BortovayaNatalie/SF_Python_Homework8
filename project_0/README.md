@@ -1,9 +1,9 @@
 # Проект 0. Угадай число.
 
-## Оглавление
-[1. Описание проекта](https://github.com/BortovayaNatalie/SF_Python_Homework8/edit/main/project_0/README.md#Описание-проекта)
+## <a id="Оглавление">Оглавление</a>
+[1. Описание проекта](#title1)
 
-[2. Какой кйес решаем](https://github.com/BortovayaNatalie/SF_Python_Homework8/edit/main/project_0/README.md#Какой-куйс-решаем)
+[2. Какой кйес решаем](#title2)
 
 [3. Краткая информация о данных](https://github.com/BortovayaNatalie/SF_Python_Homework8/edit/main/project_0/README.md#Краткая-информация-о-данных)
 
@@ -13,12 +13,12 @@
 
 [6. Выводы](https://github.com/BortovayaNatalie/SF_Python_Homework8/edit/main/project_0/README.md#Выводы)
 
-### Описание проекта
+### <a id="title1">Описание проекта</a>
 Угадать загаданное компьютером число за минимальное число попыток (не более 20)
 
 :arrow_up:[к оглавлению](https://github.com/BortovayaNatalie/SF_Python_Homework8/edit/main/project_0/README.md#Оглавление)
 
-### Какой кейс решаем?
+### <a id="title2">Какой кейс решаем?</a>
 Нужно написать программу, которая угадывает числа за минимальное число попыток
 
 **Условия соревнования**
